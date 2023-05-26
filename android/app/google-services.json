@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87357680143",
+    "project_id": "setik1-86762",
+    "storage_bucket": "setik1-86762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87357680143:android:3eb3314826b4bc2ca6517a",
+        "android_client_info": {
+          "package_name": "com.example.faceken2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87357680143-oabm8hkg3dnmtkqfq2e0f968d3p7esrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3KlS-X8-mqPUQCWXnz82EXdGGD3Yx-tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87357680143-oabm8hkg3dnmtkqfq2e0f968d3p7esrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
